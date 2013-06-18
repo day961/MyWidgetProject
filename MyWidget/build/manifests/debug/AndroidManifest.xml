@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.Svoday.example.mywidget">
+
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="16"/>
+
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/main_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/main_name" android:name="com.Svoday.example.mywidget.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/second_name" android:name="com.Svoday.example.mywidget.SecendActivity">
+        </activity>
+        <activity android:label="@string/second_name" android:name="com.Svoday.example.mywidget.Dialog_Activity" android:theme="@android:style/Theme.Dialog">
+        </activity>
+        <activity android:label="@string/second_name" android:name="com.Svoday.example.mywidget.List_Activity">
+        </activity>
+    </application>
+
+</manifest>

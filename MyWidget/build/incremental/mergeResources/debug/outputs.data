@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371445976275 1131 581f285e89f4ec3011ddb66099ad1076825c83b7 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\values\values.xml
+1371318523666 6285 7d70f203960dfa0fbff23f2fe3240fc034fb66a4 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\layout\activity_main.xml
+1371294233350 130 90e37035f35f83953c491e73e930b7aea297a472 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\values-sw720dp-land\values.xml
+1371294233314 884 b1306578ef2b3a3659261d050e5e39a829bff3b4 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\layout\list_widget.xml
+1371306991832 1023 671eab9a8b7894c1c219b0e29587a081e12299e6 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\layout\activity_dialog.xml
+1371294233316 505 868b532686d908fd82650f2965090c135c9ef5b4 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1371294233348 210 c41731f5631a90fa989588ef97e9476fc244b438 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\values-v11\values.xml
+1371294233322 735 739c54c22c65e48399b6ddd831a94ec7b7df070e D:\android\MyWidgetProject\MyWidget\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1371294233346 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\values-v14\values.xml
+1371294233324 1693 cbabf9e41708d63a0c850b54861ef0e8df346c6c D:\android\MyWidgetProject\MyWidget\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1371294233316 1045 0a2f6c4f9e5a61791a1f01b2cd7363e1bc53d721 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1371294233315 405 874c770c50efbbe3ea42f6cfca41864c8070160b D:\android\MyWidgetProject\MyWidget\build\res\all\debug\menu\main.xml
+1371294233326 836 a533ff3965bbfc0e1d1c6d85db8d6fa9b6cf29bb D:\android\MyWidgetProject\MyWidget\build\res\all\debug\layout\activity_secend.xml
+1371310585830 1100 e469bad671279e4aaa78960fc66829a8663c23e5 D:\android\MyWidgetProject\MyWidget\build\res\all\debug\layout\list_activity.xml

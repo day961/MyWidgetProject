@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_name" >MyWidget
+    </string>
+    <string name="second_name" >Result
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="hello_world" >Hello world!
+    </string>
+    <string name="multiply">乘以
+    </string>
+    <string name="cal">计算</string>
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+    <string name="dialog_messages">这是一个对话框</string>
+    <string name="back">返回</string>
+
+</resources>
