@@ -41,20 +41,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0033dd4f-e3ba-4e91-ad77-943362f59d9a" name="Default" comment="my widget1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/FileUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/HttpDownloader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyWidget/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/MyWidget/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/MainActivity.java" afterPath="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyWidget/build/source/r/debug/com/Svoday/example/mywidget/R.java" afterPath="$PROJECT_DIR$/MyWidget/build/source/r/debug/com/Svoday/example/mywidget/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyWidget/build/res/all/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/MyWidget/build/res/all/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyWidget.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Secend.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371102295035" ignored="false" />
     <file path="/SecendActivity.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371107455199" ignored="false" />
-    <file path="/activity_main.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371316481150" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371306707537" ignored="false" />
+    <file path="/activity_main.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371563890163" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373871994459" ignored="false" />
     <file path="$PROJECT_DIR$/../MyApplicationProject/.idea/workspace.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371107701946" ignored="false" />
-    <file path="/MainActivity.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371394344528" ignored="false" />
+    <file path="/MainActivity.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373893871017" ignored="false" />
     <file path="/strings.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371290672534" ignored="false" />
     <file path="/SecendActivity.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371106479955" ignored="false" />
     <file path="/activity_secend.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371106927217" ignored="false" />
-    <file path="/fragment.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371310133170" ignored="false" />
+    <file path="/fragment.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373863725770" ignored="false" />
     <file path="/settings.gradle" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371110896312" ignored="false" />
     <file path="/build.gradle" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371111053565" ignored="false" />
     <file path="/main.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371113268213" ignored="false" />
@@ -66,8 +73,25 @@
     <file path="$PROJECT_DIR$/MyWidget/build/res/all/debug/layout/activity_secend.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371306411369" ignored="false" />
     <file path="$PROJECT_DIR$/MyWidget/build/source/r/debug/com/Svoday/example/mywidget/MyAdapter.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371310154493" ignored="false" />
     <file path="/list_activity.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371310562739" ignored="false" />
-    <file path="/Dummy.txt" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371518160558" ignored="false" />
-    <file path="$PROJECT_DIR$/MyWidget/build/source/r/debug/com/Svoday/example/mywidget/R.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371445982150" ignored="false" />
+    <file path="/Dummy.txt" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373909287792" ignored="false" />
+    <file path="/HttpDownloader.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371567012913" ignored="false" />
+    <file path="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/FileUtils/java.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1371567247857" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/.idea/workspace.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373873044160" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/res/layout/login.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373866348909" ignored="false" />
+    <file path="/login.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373861886760" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/java/com/svoday/loginapplication/MainActivity.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373909304138" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/java/com/svoday/loginapplication/SecondActivity.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373885389901" ignored="false" />
+    <file path="/SecondActivity.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373885387470" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/AndroidManifest.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373872373535" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/build/source/r/debug/com/svoday/loginapplication/R.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373885415627" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/res/layout/activity_second.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373885117287" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/build/res/all/debug/layout/login.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373866364241" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/res/layout/activity_main.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373885049500" ignored="false" />
+    <file path="/activity_second.xml" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373885109340" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/java/com/svoday/loginapplication/EasySSLSocketFactory.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373895058058" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/java/com/svoday/loginapplication/EasyX509TrustManager.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373892242204" ignored="false" />
+    <file path="$PROJECT_DIR$/../LoginApplicationProject/LoginApplication/src/main/java/com/svoday/loginapplication/cer.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373895355898" ignored="false" />
+    <file path="/cer.java" changelist="0033dd4f-e3ba-4e91-ad77-943362f59d9a" time="1373893626467" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +111,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -123,7 +148,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -136,7 +160,55 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="180" column="55" selection-start="7248" selection-end="7248" vertical-scroll-proportion="0.53125">
+            <state line="171" column="0" selection-start="6704" selection-end="6704" vertical-scroll-proportion="0.3469388">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_dialog.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_dialog.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="1003" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyWidget/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dialog_Activity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/Dialog_Activity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpDownloader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/HttpDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="30" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/FileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="5" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -162,20 +234,11 @@
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state line="124" column="15" selection-start="4687" selection-end="4687" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+            <state line="131" column="4" selection-start="4920" selection-end="4920" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -206,22 +269,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/MyWidget/build.gradle" />
         <option value="$PROJECT_DIR$/MyWidget/build/manifests/debug/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/res/menu/main.xml" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/Dialog_Activity.java" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/res/layout/list_widget.xml" />
         <option value="$PROJECT_DIR$/MyWidget/build/res/all/debug/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/MyWidget/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_dialog.xml" />
         <option value="$PROJECT_DIR$/MyWidget/build/source/r/debug/com/Svoday/example/mywidget/MyAdapter.java" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/res/layout/list_activity.xml" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/List_Activity.java" />
-        <option value="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/MainActivity.java" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/HttpDownloader.java" />
+        <option value="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/java.java" />
+        <option value="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/MainActivity.java" />
+        <option value="$PROJECT_DIR$/MyWidget/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -289,7 +352,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -344,8 +406,133 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidgetProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidgetProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidgetProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Svoday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidgetProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Svoday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -472,7 +659,7 @@
       <option name="ACTIVITY_CLASS" value="com.Svoday.example.mywidget.MainActivity" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -546,11 +733,27 @@
       <workItem from="1371445868907" duration="794000" />
       <workItem from="1371473440900" duration="4245000" />
       <workItem from="1371515994699" duration="2164000" />
+      <workItem from="1371518476942" duration="324000" />
+      <workItem from="1371539299309" duration="1230000" />
+      <workItem from="1371556251290" duration="7152000" />
+      <workItem from="1371604509989" duration="2608000" />
+      <workItem from="1372648887175" duration="1209000" />
+      <workItem from="1372686562187" duration="811000" />
+      <workItem from="1373296821427" duration="311000" />
+      <workItem from="1373460462576" duration="470000" />
+      <workItem from="1373796866346" duration="3595000" />
+      <workItem from="1373825532260" duration="991000" />
+      <workItem from="1373858453033" duration="572000" />
+      <workItem from="1373861341145" duration="3256000" />
+      <workItem from="1373873113955" duration="99000" />
+      <workItem from="1373875376148" duration="3368000" />
+      <workItem from="1373895531200" duration="56000" />
+      <workItem from="1373909018008" duration="293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65307000" />
+    <option name="totallyTimeSpent" value="91652000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -574,31 +777,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32819074" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26433566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819074" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3516295" sideWeight="0.5007587" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.28668943" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.67066896" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3211781" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35273972" sideWeight="0.49924126" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28351957" sideWeight="0.49924126" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.67066896" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.67066896" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16235632" sideWeight="0.67180926" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.49924126" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20833333" sideWeight="0.67132866" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.49924126" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262519" sideWeight="0.67066896" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262519" sideWeight="0.67066896" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32801822" sideWeight="0.67066896" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278217" sideWeight="0.67066896" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3211781" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959327" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -691,37 +894,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/res/layout/list_widget.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="381" selection-end="381" vertical-scroll-proportion="-4.642857" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/java/util/HashMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/res/layout/list_activity.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-12.142858" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/List_Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="53" selection-start="2045" selection-end="2045" vertical-scroll-proportion="2.5359116" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/java/util/logging/Handler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="169" selection-end="169" vertical-scroll-proportion="-0.32872927" />
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/os/Handler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="78" column="0" selection-start="3379" selection-end="3379" vertical-scroll-proportion="0.70689654" />
@@ -747,32 +919,14 @@
         <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.030630631" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="30" selection-start="1264" selection-end="1264" vertical-scroll-proportion="1.072072">
-          <folding>
-            <element signature="e#420#439#0" expanded="false" />
-            <element signature="e#594#613#0" expanded="false" />
-            <element signature="e#927#948#0" expanded="false" />
-            <element signature="e#1067#1088#0" expanded="false" />
-            <element signature="e#1264#1285#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="124" column="15" selection-start="4687" selection-end="4687" vertical-scroll-proportion="0.0">
+    <entry file="file://$PROJECT_DIR$/MyWidget/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -784,16 +938,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyWidget/build.gradle">
+    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+        <state line="131" column="4" selection-start="4920" selection-end="4920" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/res/layout/activity_dialog.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1003" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://L:/安卓开发/mars代码/01_18_src/download/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="822" selection-end="822" vertical-scroll-proportion="0.4708455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/utils/HttpDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="30" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/Dialog_Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyWidget/src/main/java/com/Svoday/example/mywidget/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="55" selection-start="7248" selection-end="7248" vertical-scroll-proportion="0.53125">
+        <state line="171" column="0" selection-start="6704" selection-end="6704" vertical-scroll-proportion="0.3469388">
           <folding />
         </state>
       </provider>

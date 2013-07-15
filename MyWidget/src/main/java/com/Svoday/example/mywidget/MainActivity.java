@@ -20,6 +20,7 @@ import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.os.Handler;
+import com.Svoday.utils.HttpDownloader;
 
 public class MainActivity extends Activity {
     //声明控件对象
@@ -40,6 +41,8 @@ public class MainActivity extends Activity {
     private ProgressBar progressbarH;
     private ProgressBar progressBarN;
     private Button progress_button;
+
+    private Button download_button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -65,28 +68,7 @@ public class MainActivity extends Activity {
         progressBarN = (ProgressBar)findViewById(R.id.progressBarN);
         progress_button = (Button)findViewById(R.id.progress_button);
 
-
-//        TextView1.setText(R.string.multiply);
-//        Button1.setText(R.string.Button1);
-//        /*listview部分*/
-//
-//        ArrayList<HashMap<String,String>> list = new ArrayList<HashMap<String, String>>();
-//        HashMap<String,String> map1 = new HashMap<String, String>();
-//        HashMap<String,String> map2 = new HashMap<String, String>();
-//        HashMap<String,String> map3 = new HashMap<String, String>();
-//        map1.put("list_first","aaa");
-//        map1.put("list_second","111");
-//        map2.put("list_first","bbb");
-//        map2.put("list_second","222");
-//        map3.put("list_first","ccc");
-//        map3.put("list_second","333");
-//        list.add(map1);
-//        list.add(map2);
-//        list.add(map3);
-//        SimpleAdapter listAdapter = new SimpleAdapter(this,
-//                list,R.layout.list_widget,new String[]{"list_first","list_second"},
-//                new int[]{R.id.list_first,R.id.list_second});
-//        setListAdapter(listAdapter);
+        download_button = (Button)findViewById(R.id.download);
 
         //设置对象监听器
         Button1.setOnClickListener(new CalculateListener());
@@ -158,6 +140,16 @@ public class MainActivity extends Activity {
             }
         });
 
+        download_button.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view) {
+                HttpDownloader httpDownloader = new HttpDownloader();
+
+                String lrc = httpDownloader.download("http://uqute.com/day961/kkk.txt");
+                System.out.println("a" + lrc);
+            }
+        });
+
     }
 
     class CalculateListener implements View.OnClickListener{//“计算”按钮侦听器
@@ -188,7 +180,10 @@ public class MainActivity extends Activity {
         }
     }
 
-    //handler
+/*    handler
+        java使用线程的方法
+        创建一个Runnable,将之作为参数传入Thread实例中
+*/
     Handler handler = new Handler(){
         @Override
         public void handleMessage(Message msg) {
@@ -209,6 +204,7 @@ public class MainActivity extends Activity {
                 handler.removeCallbacks(updateThread);
                 i = 0;
             }else{
+            //打印线程ID
             System.out.println("updateThread Begin    Thread NO." + Thread.currentThread().getId());
 //            handler.postDelayed(updateThread, 3000);
             i = i + 10;
